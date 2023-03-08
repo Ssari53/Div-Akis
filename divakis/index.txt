@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="sheet.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-color: #92c795;">
+    <div id="anakutu">
+        <div id="banner">
+            <div id="logo">
+                <img src="logo.png" alt="" style="border-radius: 50%; width: 150px; height: 150px;">
+            </div>
+            <div id="baslik">
+                <h1 style="font-size: 60px;">Anılarım</h1>
+            </div>
+        </div>
+        <div class="icerik">
+            <div class="icerikb">
+                <h2>Hakkımızda</h2>
+            </div>
+            <div class="iceriki">
+                <p style="margin-top: 0px; margin-bottom: 0px;">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut alias tempore corrupti fuga repudiandae, quis nemo ipsam hic sapiente molestiae sit dolor quisquam. Magnam, inventore?
+                </p>
+            </div>
+            
+        </div>
+        <div class="icerik" style="margin-left: 25px;">
+            <div class="icerikb">
+                <h2>Hakkımızda</h2>
+            </div>
+            <div class="iceriki">
+                <p style="margin-top: 0px; margin-bottom: 0px;">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut alias tempore corrupti fuga repudiandae, quis nemo ipsam hic sapiente molestiae sit dolor quisquam. Magnam, inventore?
+                </p>
+            </div>
+            
+        </div>
+        <div class="icerik" style="margin-left: 25px;">
+            <div class="icerikb">
+                <h2>Hakkımızda</h2>
+            </div>
+            <div class="iceriki">
+                <p style="margin-top: 0px; margin-bottom: 0px;">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut alias tempore corrupti fuga repudiandae, quis nemo ipsam hic sapiente molestiae sit dolor quisquam. Magnam, inventore?
+                </p>
+            </div>
+            
+        </div>
+        <div class="icerik" style="margin-left: 25px; ;">
+            <div class="icerikb">
+                <h2>Hakkımızda</h2>
+            </div>
+            <div class="iceriki">
+                <p style="margin-top: 0px; margin-bottom: 0px;">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut alias tempore corrupti fuga repudiandae, quis nemo ipsam hic sapiente molestiae sit dolor quisquam. Magnam, inventore?
+                </p>
+            </div>
+            
+        </div>
+        <div id="icerik2">
+            <div style="width: 800px;text-align: center; height: 50px; padding-top: 15px;">
+                <h2 style="margin-bottom: 0px; margin-top: 0px; font-size: 30px;">
+                    ANILARIM HAKKINDA
+                </h2>
+            </div>
+            <div style="width: 770px;height: 250px;margin-left: 15px;font-size: 18px;">
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Temporibus nisi, praesentium saepe laborum nihil hic harum labore laudantium, impedit cupiditate vel culpa explicabo pariatur. Illum saepe rem voluptatum velit numquam similique deserunt dolor, necessitatibus ea enim ab non laboriosam ipsum aliquam ipsam quidem eveniet mollitia deleniti ex? Dolorem commodi similique et fugiat qui! Recusandae alias dolores, dolorum tenetur nam expedita delectus aliquam. Recusandae doloremque sapiente asperiores amet velit sit nulla iste magnam architecto, earum explicabo accusamus, animi rem quasi cum itaque eveniet unde, et aperiam. Assumenda, perferendis rem id pariatur quidem eos inventore, minus fugiat quae ea corporis illo cum, consectetur a reiciendis hic magni et. A eos consequatur dignissimos, aliquam perspiciatis soluta eaque possimus neque exercitationem ab, esse illum.</p>
+            </div>
+            
+        </div>
+        <div id="person">
+            <div class="personel">
+                <div class="personelimg">
+                    <img src="lincoln.jpg" width="60" height="60" alt="" style="border-radius: 50%; ">
+                </div>
+                <div class="personeltext" >
+                    <p style="margin-top: 23px; margin-left:10px;">Lorem ipsum dolor sit amet.</p>
+                </div>
+            </div>
+            <div class="personel">
+                <div class="personelimg">
+                    <img src="sarah.jpg" width="60" height="60" alt="" style="border-radius: 50%; ">
+                </div>
+                <div class="personeltext" >
+                    <p style="margin-top: 23px; margin-left:10px;">Lorem ipsum dolor sit amet.</p>
+                </div>
+            </div>
+            <div class="personel">
+                <div class="personelimg">
+                    <img src="suqre.jpg" width="60" height="60" alt="" style="border-radius: 50%; ">
+                </div>
+                <div class="personeltext" >
+                    <p style="margin-top: 23px; margin-left:10px;">Lorem ipsum dolor sit amet.</p>
+                </div>
+            </div>
+        </div>
+        <div id="sagalt">
+            <div id="rsm">
+                <img src="scofield.jpg" style="width: 175px; border-radius: 15px;" alt="">
+            </div>
+            <div id="sagalticerik">
+                <p style="margin-top: 0px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero ratione porro eos illo voluptatibus dolorum nihil incidunt error ullam praesentium illum qui ex quia dolorem odit possimus, deserunt iure quam impedit animi neque eius asperiores perspiciatis quidem! Atque voluptatem, veritatis nobis, provident assumenda hic quo aut totam ad ex harum.</p>
+
+            </div>
+        </div>
+        
+    </div>
+</body>
+</html>

@@ -1,0 +1,121 @@
+#anakutu{
+    width: 900px;
+    height: 1200px;
+    background-color: #4E6C50;
+    float: left;
+    margin-left: 30%;
+    border-radius: 20px;
+}
+#banner{
+    width: 800px;
+    height: 200px;
+    background-color: #7eaf81;
+    margin-left: 50px;
+    margin-top: 50px;
+    clear: both;
+    border-radius: 20px;
+}
+#logo{
+    width: 150px;
+    height: 150px;
+    margin-top: 25px;
+    margin-left: 25px;
+    float: left;
+}
+#baslik{
+    float: left;
+    margin-top: 25px;
+    margin-left: 150px;
+    text-align: center;
+}
+.icerik{
+    width: 180px;
+    height: 275px;
+    background-color: #AA8B56;
+    float: left;
+    margin-left: 50px;
+    margin-top: 25px;
+    border-radius: 20px;
+}
+.icerikb{
+    width: 180px;
+    height: 60px;
+    background-color: #F0EBCE;
+    float: left;
+    text-align: center;
+    border-radius: 20px 20px 0px 0px;
+}
+.iceriki{
+    width: 150px;
+    height: 185px;
+    float: left;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+#icerik2{
+    width: 800px;
+    height: 300px;
+    background-color: #d4d0b6;
+    float: left;
+    margin-left: 50px;
+    margin-top: 25px;
+    clear: both;
+    border-radius: 15px;
+}
+#person{
+    clear: both;
+    width: 300px;
+    height: 275px;
+    margin-left: 50px;
+    margin-top: 25px;
+    background-color: #AA8B56;
+    float: left;
+    border-radius: 25px;
+}
+.personel{
+    width: 270px;
+    height: 71px;
+    margin-left: 15px;
+    margin-top: 15px;
+    background-color:#cec9af;
+    float: left;
+    border-radius: 40px;
+}
+.personelimg{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    margin-top: 5px;
+    margin-left: 5px;
+    background-color: azure;
+    float: left;
+}
+.personeltext{
+    float: left;
+}
+#sagalt{
+    float: left;
+    width: 475px;
+    height: 275px;
+    background-color: #2bb96d;
+    margin-left: 25px;
+    margin-top: 25px;
+    border-radius: 15px;
+}
+#rsm{
+    width: 175px;
+    height: 225px;
+    background-color: bisque;
+    margin-top: 25px;
+    margin-left: 25px;
+    float: left;
+    border-radius: 15px;
+}
+#sagalticerik{
+    width: 240px;
+    height: 230px;
+    float: left;
+    margin-top: 25px;
+    margin-left: 15px;
+
+}
